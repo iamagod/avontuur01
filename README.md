@@ -1,6 +1,6 @@
 first try at a side scrolling adventure game.
 
-TODO:
+## TODO:
 
 - implement walk left/right
 - implement interface
