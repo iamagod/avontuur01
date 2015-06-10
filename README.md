@@ -27,6 +27,9 @@ for i in n:
 for i in n:
 ```
 
+```
+for i in n:
+```
 
 
-!(http://i.imgur.com/WWLYo.gif )
+![](http://i.imgur.com/WWLYo.gif )
