@@ -8,7 +8,6 @@ TODO:
 - setup inventory
 - add other level
 
-
 ## test
 * dit is regel een
 * dit is regel twee
@@ -17,7 +16,17 @@ TODO:
 
 
 ```python
-lalala
+for i in n:
 ```
 
-![alt text](http://i.imgur.com/WWLYo.gif “Frustrated cat can’t believe this is the 12th time he’s clicked on an auto-linked README.md URL”)
+```javascript
+for i in n:
+```
+
+```bash
+for i in n:
+```
+
+
+
+!(http://i.imgur.com/WWLYo.gif )
